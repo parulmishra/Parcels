@@ -12,7 +12,7 @@ namespace Parcels.Controllers
           return View();
         }
 
-      [Route("/form")]
+      [Route("/calculate_shipping")]
         public ActionResult Calculate_Shipping()
         {
             Parcel myParcel = new Parcel();

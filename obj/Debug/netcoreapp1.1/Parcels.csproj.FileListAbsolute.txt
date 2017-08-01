@@ -1,8 +1,8 @@
-/Users/Guest/Desktop/Parcels/bin/Debug/netcoreapp1.1/Parcels.deps.json
-/Users/Guest/Desktop/Parcels/bin/Debug/netcoreapp1.1/Parcels.runtimeconfig.json
-/Users/Guest/Desktop/Parcels/bin/Debug/netcoreapp1.1/Parcels.runtimeconfig.dev.json
-/Users/Guest/Desktop/Parcels/obj/Debug/netcoreapp1.1/Parcels.AssemblyInfo.cs
-/Users/Guest/Desktop/Parcels/bin/Debug/netcoreapp1.1/Parcels.dll
-/Users/Guest/Desktop/Parcels/bin/Debug/netcoreapp1.1/Parcels.pdb
-/Users/Guest/Desktop/Parcels/obj/Debug/netcoreapp1.1/Parcels.dll
-/Users/Guest/Desktop/Parcels/obj/Debug/netcoreapp1.1/Parcels.pdb
+C:\Users\amdubedy\desktop\mywork\Parcels\bin\Debug\netcoreapp1.1\Parcels.deps.json
+C:\Users\amdubedy\desktop\mywork\Parcels\bin\Debug\netcoreapp1.1\Parcels.runtimeconfig.json
+C:\Users\amdubedy\desktop\mywork\Parcels\bin\Debug\netcoreapp1.1\Parcels.runtimeconfig.dev.json
+C:\Users\amdubedy\desktop\mywork\Parcels\bin\Debug\netcoreapp1.1\Parcels.dll
+C:\Users\amdubedy\desktop\mywork\Parcels\bin\Debug\netcoreapp1.1\Parcels.pdb
+C:\Users\amdubedy\desktop\mywork\Parcels\obj\Debug\netcoreapp1.1\Parcels.AssemblyInfo.cs
+C:\Users\amdubedy\desktop\mywork\Parcels\obj\Debug\netcoreapp1.1\Parcels.dll
+C:\Users\amdubedy\desktop\mywork\Parcels\obj\Debug\netcoreapp1.1\Parcels.pdb

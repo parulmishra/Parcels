@@ -42,7 +42,7 @@ namespace Parcels.Models
     public int CalculateShipping()
     {
       int shippingCost = 0;
-      else if(_weight > 40 )
+      if(_weight > 40 )
       {
           shippingCost = 40;
       }
@@ -50,7 +50,7 @@ namespace Parcels.Models
       {
         shippingCost = 20;
       }
-      if(_weight > 10)
+      else if(_weight > 10)
       {
         shippingCost = 10;
       }
